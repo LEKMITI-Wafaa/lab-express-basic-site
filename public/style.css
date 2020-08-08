@@ -1,0 +1,22 @@
+body{
+    background-color: green;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    font-size: 300%;
+    color:yellow;
+}
+ul{
+    display: flex;
+}
+a{
+    margin: auto;
+    list-style: none;
+    color: aliceblue;
+}
+img{
+    width: 200px;
+    height: auto;
+    display: block;
+    margin: auto;
+}
